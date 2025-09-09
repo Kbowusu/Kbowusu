@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+I am an Electronics Engineering student with experience in ...
+
+**Programming:** C, C++, Python, Verilog  
+**Hardware Tools:** Arduino, ESP32, Multimeter, Oscilloscope  
+**Software:** AutoCAD, Siemens NX, Tinkercad, LTspice, KiCad, Xilinx Vivado  
+**Cloud & Visualization:** Blynk, Firebase, ThingSpeak, Tableau  
+**Other:** Git/GitHub, MS Office
+
+
 <!--
 **Kbowusu/Kbowusu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
